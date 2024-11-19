@@ -671,4 +671,7 @@
 
 // auth(role,password)
 
-
+//string metodlari 
+// 1.length
+// let str = "5";
+// console.log(str.length);

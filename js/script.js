@@ -735,3 +735,19 @@
 
 // let str = "JavaScript";
 // console.log(str.substring(4, -2)); 
+
+//slice()
+
+// const greeting = "Salom, Sardorbek!";
+// const slicedPart = greeting.slice(7, 16);
+
+// console.log(slicedPart); 
+
+// const text = "Darslar juda qiziqarli!";
+// const part = text.slice(8);
+
+// console.log(part); // 'juda qiziqarli!'
+// const message = "Front-end dasturlash";
+// const lastPart = message.slice(-15);
+
+// console.log(lastPart);

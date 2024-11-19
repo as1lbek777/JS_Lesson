@@ -717,5 +717,21 @@
 // console.log(text.endsWith("d!")); // true
 // console.log(text.startsWith("Hello"));  // false
 
-let fileName = "document.pdf";
-console.log(fileName.endsWith(".pdf"));
+// let fileName = "document.pdf";
+// console.log(fileName.endsWith(".pdf"));
+
+//subString()
+
+// let str = "JavaScript";
+// console.log(str.substring(-1));
+// let str = "JavaScript";
+// console.log(str.substring(0, 4));
+
+// let str = "JavaScript";
+// console.log(str.substring(4));
+
+// let str = "JavaScript";
+// console.log(str.substring(-1, 6)); 
+
+// let str = "JavaScript";
+// console.log(str.substring(4, -2)); 

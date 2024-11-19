@@ -711,3 +711,11 @@
 // console.log(text.startsWith("world")); 
 // let phoneNumber = "+998991234567";
 // console.log(phoneNumber.startsWith("+998"));
+
+//endWith
+// let text = "Hello world!";
+// console.log(text.endsWith("d!")); // true
+// console.log(text.startsWith("Hello"));  // false
+
+let fileName = "document.pdf";
+console.log(fileName.endsWith(".pdf"));

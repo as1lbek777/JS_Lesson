@@ -675,3 +675,6 @@
 // 1.length
 // let str = "5";
 // console.log(str.length);
+//2.toUpperCase()
+let str = "hello world";
+console.log(str.toUpperCase()); 

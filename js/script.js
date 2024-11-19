@@ -698,3 +698,16 @@
 // let name1="Sardorbek";
 // let result=name1.lastIndexOf("r");
 // console.log(result);
+
+//includes()
+// let text = "JavaScript is awesome";
+// console.log(text.includes("java"));
+// console.log(text.includes("s")); 
+
+
+//startWith()
+// let text = "Hello world!";
+// console.log(text.startsWith("Hello"));
+// console.log(text.startsWith("world")); 
+// let phoneNumber = "+998991234567";
+// console.log(phoneNumber.startsWith("+998"));

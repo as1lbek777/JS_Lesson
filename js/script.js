@@ -681,3 +681,16 @@
 // console.log(str);
 
 // console.log(b);
+//3.charAt()
+// let text = "Sardorbek";
+// let char = text.charAt(1);
+// console.log(char);
+
+//----------------------
+// let text = "Hello! ";
+// let char = text.charAt(100);
+// console.log(char);  
+// //---------------
+// let text = "Sardorbek";
+// let char = text.charAt(5);
+// console.log(char);

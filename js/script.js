@@ -691,6 +691,6 @@
 // let char = text.charAt(100);
 // console.log(char);  
 // //---------------
-// let text = "Sardorbek";
-// let char = text.charAt(5);
-// console.log(char);
+let text = "Sardorbek";
+let char = text.charAt(5,7);
+console.log(char);

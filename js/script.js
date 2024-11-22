@@ -752,3 +752,8 @@
 
 // console.log(lastPart);
 
+
+var argumentsLength = function(...args) {
+    let leng=args.length()
+};
+console.log(argumentsLength(5));

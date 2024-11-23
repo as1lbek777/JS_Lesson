@@ -753,7 +753,11 @@
 // console.log(lastPart);
 
 
-var argumentsLength = function(...args) {
-    let leng=args.length()
-};
-console.log(argumentsLength(5));
+// let regex = /hello/;
+// console.log(regex.test("hello world"));
+// console.log(regex.test("hi world")); 
+
+// let regex = /c.t/;
+// console.log(regex.test("cat")); 
+// console.log(regex.test("cut")); 
+// console.log(regex.test("coot")); 

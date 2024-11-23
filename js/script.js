@@ -767,10 +767,10 @@
 // console.log(regex.test("cat")); 
 // console.log(regex.test("cootottotototottotototototttn"));
 
-let regex = /ca?t/;
-console.log(regex.test("ct"));
-console.log(regex.test("cat")); 
-console.log(regex.test("caaaat"));
+// let regex = /ca?t/;
+// console.log(regex.test("ct"));
+// console.log(regex.test("cat")); 
+// console.log(regex.test("caaaat"));
 
 // let regex = /^sa/;
 // console.log(regex.test("hello world"));

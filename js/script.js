@@ -783,3 +783,9 @@
 // let regex = /[scc]/;
 // console.log(regex.test("hello")); 
 // console.log(regex.test("sky")); 
+// num="121"
+// let regex = ["1", "2", "1"];
+// let rev=["1", "2", "1"];
+// joun="121"
+// console.log(regex.test("hello")); 
+// console.log(regex.test("HELLO")); 

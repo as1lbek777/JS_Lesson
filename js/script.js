@@ -836,7 +836,7 @@
 // let length = fruits.length;
 // console.log(length);
 
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-let fruit = fruits[fruits.length - 1];
-console.log(fruit);
+// const fruits = ["Banana", "Orange", "Apple", "Mango","olcha"];
+// let fruit = fruits[fruits.length - 1];
+// console.log(fruit);
 

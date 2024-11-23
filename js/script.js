@@ -855,10 +855,18 @@
 // console.log(fruits);
 
 
-const person = [];
-person[0] = "John";
-person[1] = "Doe";
-person[2] = 46;
-console.log(person.length);
-   // Will return 3
-person[0]; 
+// const person = [];
+// person[0] = "John";
+// person[1] = "Doe";
+// person[2] = 46;
+// console.log(person.length);
+//    // Will return 3
+// person[0]; 
+
+// const person = [];
+// person["firstName"] = "John";
+// person["lastName"] = "Doe";
+// person["age"] = 46;
+// console.log(person);
+    
+// console.log(person.firstName)

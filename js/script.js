@@ -789,3 +789,11 @@
 // joun="121"
 // console.log(regex.test("hello")); 
 // console.log(regex.test("HELLO")); 
+// let number=121;
+// const isPalindrome = function (x) {
+//     let num = x.toString();
+//     let result = num.split('').reverse().join('');
+
+//     return num === result ? true : false
+// };
+// console.log(isPalindrome(number));

@@ -761,3 +761,7 @@
 // console.log(regex.test("cat")); 
 // console.log(regex.test("cut")); 
 // console.log(regex.test("coot")); 
+
+// let regex = /^sa/;
+// console.log(regex.test("hello world"));
+// console.log(regex.test("say hello")); 

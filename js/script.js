@@ -797,3 +797,7 @@
 //     return num === result ? true : false
 // };
 // console.log(isPalindrome(number));
+
+//learn array
+// const cars = ["Saab", "Volvo", "BMW"];
+// console.log(cars);

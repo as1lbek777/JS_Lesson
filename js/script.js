@@ -870,3 +870,8 @@
 // console.log(person);
     
 // console.log(person.firstName)
+
+
+// const points = new Array(40, 100, 1, 5, 25, 10);
+// const points = [40, 100, 1, 5, 25, 10];
+// console.log(points);

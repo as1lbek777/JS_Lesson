@@ -829,3 +829,9 @@
 // document.getElementById("btn").innerHTML = btn.replaceAll(',',' ');
 // document.getElementById("demo").innerHTML = navEl.replaceAll(',',' ');
 
+// const person = ["John", "Doe", 46];
+// console.log(person[2]);
+
+// const fruits = ["Banana", "Orange", "Apple", "Mango", "Mango", "Mango", "Mango", "Mango", "Mango", "Mango", "Mango", "Mango"];
+// let length = fruits.length;
+// console.log(length);

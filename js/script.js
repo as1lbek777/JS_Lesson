@@ -848,3 +848,8 @@
 //   text += "<li>" + fruits[i] + "</li>";
 // }
 // text += "</ul>";
+
+// const fruits = ["Banana", "Orange", "Apple"];
+// fruits[fruits.length+1] = "Lemon";
+// fruits[fruits.length] = "Kiwi";
+// console.log(fruits);

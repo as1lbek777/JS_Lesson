@@ -816,3 +816,6 @@
 // cars[2]= "BMW";
 // cars[5]= "Mercedes";
 // console.log(cars);
+// const cars = new Array("Saab", "Volvo", "BMW");
+// console.log(cars);
+

@@ -762,6 +762,20 @@
 // console.log(regex.test("cut")); 
 // console.log(regex.test("coot")); 
 
+// let regex = /co*nt/;
+// console.log(regex.test("ct")); 
+// console.log(regex.test("cat")); 
+// console.log(regex.test("cootottotototottotototototttn"));
+
+let regex = /ca?t/;
+console.log(regex.test("ct"));
+console.log(regex.test("cat")); 
+console.log(regex.test("caaaat"));
+
 // let regex = /^sa/;
 // console.log(regex.test("hello world"));
 // console.log(regex.test("say hello")); 
+
+// let regex = /^world$/;
+// console.log(regex.test("hello world")); 
+// console.log(regex.test("world hello")); 

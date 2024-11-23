@@ -875,3 +875,10 @@
 // const points = new Array(40, 100, 1, 5, 25, 10);
 // const points = [40, 100, 1, 5, 25, 10];
 // console.log(points);
+
+// const fruits = ["Banana", "Orange", "Apple"];
+// let type = typeof fruits[0];
+// console.log(type);
+
+// const fruits = 15;
+// console.log(Array.isArray(fruits));

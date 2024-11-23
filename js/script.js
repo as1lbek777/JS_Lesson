@@ -849,7 +849,7 @@
 // }
 // text += "</ul>";
 
-// const fruits = ["Banana", "Orange", "Apple"];
-// fruits[fruits.length+1] = "Lemon";
-// fruits[fruits.length] = "Kiwi";
+// const fruits = ["Banana", "Orange", "Apple","Mango"];
+// fruits[fruits.length-4] = "Lemon";
+// // fruits[fruits.length] = "Kiwi";
 // console.log(fruits);

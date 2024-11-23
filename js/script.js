@@ -779,3 +779,7 @@
 // let regex = /^world$/;
 // console.log(regex.test("hello world")); 
 // console.log(regex.test("world hello")); 
+
+// let regex = /[scc]/;
+// console.log(regex.test("hello")); 
+// console.log(regex.test("sky")); 

@@ -824,3 +824,8 @@
 // console.log(cars);
 
 
+// const navEl = ["Home", "About", "Service", "FaQ", "Contact"];
+// const btn=['Sign in','Sign up']
+// document.getElementById("btn").innerHTML = btn.replaceAll(',',' ');
+// document.getElementById("demo").innerHTML = navEl.replaceAll(',',' ');
+

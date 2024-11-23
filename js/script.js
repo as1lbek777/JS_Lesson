@@ -809,3 +809,10 @@
 //   ];
   
 //   console.log(cars);
+
+// const cars = [];
+// cars[0]= "Saab";
+// cars[1]= "Volvo";
+// cars[2]= "BMW";
+// cars[5]= "Mercedes";
+// console.log(cars);

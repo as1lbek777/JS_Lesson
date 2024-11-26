@@ -929,3 +929,9 @@
 // } while (password !== "1234");
 
 // console.log("To‘g‘ri parol kiritildi!");
+
+// let count = 10;
+
+// do {
+//     console.log("Tsikl ishladi!");
+// } while (count < 5);

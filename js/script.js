@@ -935,3 +935,7 @@
 // do {
 //     console.log("Tsikl ishladi!");
 // } while (count < 5);
+
+// for (let i = 1; i <= 5; i++) {
+//     console.log(i);
+// }

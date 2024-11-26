@@ -910,9 +910,22 @@
 //     i++;
 // }
 
-let arr=[1,2,3,4,5,6,7,8,9,10];
-let i=0;
-while(i<=arr.length+1){
-    console.log(i);
-    i++;
-}
+// let arr=[1,2,3,4,5,6,7,8,9,10];
+// let i=0;
+// while(i<=arr.length+1){
+//     console.log(i);
+//     i++;
+// }
+
+// let i=0;
+// do{
+//     console.log(i);
+//     i++;
+// }while(i<10)
+
+// let password;
+// do {
+//     password = prompt("Parolni kiriting:");
+// } while (password !== "1234");
+
+// console.log("To‘g‘ri parol kiritildi!");

@@ -890,8 +890,14 @@
 //     i++;
 // }
 
-let i = -3;
-while (i < 5) { 
-    console.log(i);
-    i++
-}
+// let i = -3;
+// while (i < 5) { 
+//     console.log(i);
+//     i++
+// }
+
+// let i=10;
+// while(i>=-10){
+//     console.log(i);
+//     i--;
+// }

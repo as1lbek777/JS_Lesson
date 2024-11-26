@@ -966,3 +966,14 @@
 //     }
 //     console.log('----------------------------');
 // }
+
+// const reverse = (input) => {
+//     let output = "";
+//     for (let i = input.length - 1; i >= 0; i--) {
+//         output += input[i]
+//     }
+//     return output;
+// }
+// let a = "hello world";
+// console.log(reverse(a));
+

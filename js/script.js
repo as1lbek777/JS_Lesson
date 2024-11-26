@@ -807,7 +807,7 @@
 //     "Volvo",
 //     "BMW"
 //   ];
-  
+
 //   console.log(cars);
 
 // const cars = [];
@@ -868,7 +868,7 @@
 // person["lastName"] = "Doe";
 // person["age"] = 46;
 // console.log(person);
-    
+
 // console.log(person.firstName)
 
 
@@ -884,9 +884,8 @@
 // console.log(Array.isArray(fruits));
 
 
-
-const palindrome = function (str) {
-    let uhh=str.split("").reverse().join("");
-    return uhh===str?true:false
-}
-console.log(palindrome("amma"));
+// let i = 1;
+// while (i <= 5) {
+//     console.log(i);
+//     i++;
+// }

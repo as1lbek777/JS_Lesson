@@ -901,3 +901,11 @@
 //     console.log(i);
 //     i--;
 // }
+
+// let i=0;
+// while(i<=12){
+//     if(i%2===1){
+//         console.log(i);
+//     }
+//     i++;
+// }

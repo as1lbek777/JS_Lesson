@@ -977,3 +977,14 @@
 // let a = "hello world";
 // console.log(reverse(a));
 
+// const length=(input)=>{
+//     let count=0
+//     for (let i = 0; i < input.length; i++) {
+//         count++
+//     }
+//     return count;
+// }
+// console.log(length("Temurbek"));
+
+
+

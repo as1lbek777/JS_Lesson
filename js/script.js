@@ -1050,3 +1050,49 @@
 // }
 // console.log(reverseString("hello"));
 
+// const slice_a = (str) => {
+//     let result = '';
+//     for (let i = 0; i < str.length; i++) {
+//         if (str[i] !== 'a') {
+//             result += str[i];
+//         }
+//     }
+//     return result;
+// }
+// console.log(slice_a("banana"));
+// const extractNumber = (data) => {
+//     let result = 0;
+//     let number = 0;
+//     for (let i = 0; i < data.length; i++) {
+//         result = Number(data[i])
+//         if (result === Number(data[i])) {
+//             number += result
+//             console.log(number);
+//         }
+//     }
+//     return number
+// }
+// console.log(extractNumber("abc123xyz456"));
+
+// const bushJoy = (data) => {
+//     let count = 0;
+//     for (let i = 0; i < data.length; i++) {
+//         if (data[i] === ' ') {
+//             count++;
+//         }
+//     }
+//     return count
+// }
+// console.log(bushJoy("hello world amazing   uzi zurimisan son balki qiymat ana mana uni ota ona opa singlini"));
+
+
+// const palindirom = (data) => {
+//     let result=data.split('').reverse().join('')
+//     let make=data[0].toLowerCase();
+//     if(data===result){
+//         return true
+//     }else{
+//         return false
+//     }
+// }
+// console.log(palindirom(""));

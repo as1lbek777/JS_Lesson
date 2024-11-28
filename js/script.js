@@ -989,4 +989,64 @@
 // arr.forEach((num) => console.log(num));
 
 
+// function countCharacters(str) {
+//     for (let i = 0; i < str.length; i++) {
+//         let count = 0;
+//         for (let j = 0; j < str.length; j++) {
+//             if (str[i] === str[j]) {
+//                 count++;
+//             }
+//         }
+//         if (str.indexOf(str[i]) === i) {
+//             console.log(`${str[i]}: ${count}`);
+//         }
+//     }
+// }
+
+// const input = "aabbbcc";
+// countCharacters(input);
+// const slie_c=(input)=>{
+//     let result='';
+//     for(let i=0;i<input.length;i++){
+//         if(input[i]!=='a'){
+//             result+=input[i];
+//         } 
+//     }
+//     return result
+// }
+// console.log(slie_c("banaana"));
+
+// const extractNumber = (str) => {
+//     let result = '';
+//     let number = 0;
+//     for (let i = 0; i < str.length; i++) {
+//         if (!isNaN(str[i]) && str[i] !== ' ') {
+//             number += Number(str[i]);
+//         }
+//     }
+//     return number;
+// }
+// console.log(extractNumber("abc123xyz456"));
+
+// const longestWord=(input)=>{
+//     let arr=input.split(' ');
+//     let result='';
+//     for(let i=0;i<arr.length;i++){
+//         if(arr[i].length>result.length){
+//             result=arr[i]
+//         }
+//     }
+//     return result
+// }
+
+// console.log(longestWord("Hello world amazing"));
+
+// const reverseString = (input) => {
+//     let result='';
+//     for(let i=input.length-1;i>=0;i--){
+//         result+=input[i];
+//     }
+//     return result
+// }
+// console.log(reverseString("hello"));
 

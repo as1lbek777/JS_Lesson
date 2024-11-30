@@ -1047,7 +1047,7 @@
 // console.log(Array.isArray("hello")); 
 // console.log(Array.isArray({ key: "value" })); 
 
-// const arr = new Array(1, 2, 3);
+// const arr = new Array(5);
 // console.log(arr);
 
 // console.log(Array.isArray(arr)); 
@@ -1060,3 +1060,19 @@
 // } else {
 //     console.log("Bu massiv emas.");
 // }
+
+// const arr = Array.of(1, 2, 3, 4);
+// console.log(arr); 
+
+// const singleElementArray = Array.of(5);
+// console.log(singleElementArray); 
+
+// const arrWithConstructor = Array(5);
+// console.log(arrWithConstructor);
+
+// const numbers = [10, 20, 30, 40];
+// console.log(numbers.at(2));
+
+// const numbers = [10, 20, 30, 40];
+// console.log(numbers.at(-1)); 
+// console.log(numbers.at(-2)); 

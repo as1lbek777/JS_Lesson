@@ -1076,3 +1076,7 @@
 // const numbers = [10, 20, 30, 40];
 // console.log(numbers.at(-1)); 
 // console.log(numbers.at(-2)); 
+
+const numbers = [10, 20, 30, 40];
+console.log(numbers.at(10)); 
+console.log(numbers.at(-5)); 

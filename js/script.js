@@ -1054,3 +1054,9 @@
 
 // const empty = [];
 // console.log(Array.isArray(empty));
+const data = [1, 2, 3, 4];
+if (Array.isArray(data)) {
+    console.log("Bu massiv!");
+} else {
+    console.log("Bu massiv emas.");
+}

@@ -1046,3 +1046,11 @@
 // console.log(Array.isArray([1, 2, 3]));
 // console.log(Array.isArray("hello")); 
 // console.log(Array.isArray({ key: "value" })); 
+
+// const arr = new Array(1, 2, 3);
+// console.log(arr);
+
+// console.log(Array.isArray(arr)); 
+
+// const empty = [];
+// console.log(Array.isArray(empty));

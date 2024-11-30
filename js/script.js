@@ -1116,6 +1116,6 @@
 // console.log(numbers.includes(30, 2)); 
 // console.log(numbers.includes(10, 2)); 
 
-let colors = ["red", "green", "blue", "yellow"];
-console.log(colors.includes("green", -3)); 
-console.log(colors.includes("red", -3));   
+// let colors = ["red", "green", "blue", "yellow"];
+// console.log(colors.includes("green", -3)); 
+// console.log(colors.includes("red", -3));   

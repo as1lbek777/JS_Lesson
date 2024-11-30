@@ -1035,7 +1035,14 @@
 // arr.unshift(1); 
 // console.log(arr);
 
-const arr = [1, 2, 3];
-arr.shift(); 
-arr.shift(); 
-console.log(arr);
+// const arr = [1, 2, 3];
+// arr.shift(); 
+// arr.shift(); 
+// // console.log(arr);
+// const array="[1,2,3]";
+// console.log(Array.isArray(array));
+
+
+// console.log(Array.isArray([1, 2, 3]));
+// console.log(Array.isArray("hello")); 
+// console.log(Array.isArray({ key: "value" })); 

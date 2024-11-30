@@ -1108,10 +1108,14 @@
 
 // console.log(result);
 
-let fruits = ["apple", "banana", "cherry"];
-console.log(fruits.includes("banana"));
-console.log(fruits.includes("grape"));  
+// let fruits = ["apple", "banana", "cherry"];
+// console.log(fruits.includes("banana"));
+// console.log(fruits.includes("grape"));  
 
 // let numbers = [10, 20, 30, 40, 50];
 // console.log(numbers.includes(30, 2)); 
 // console.log(numbers.includes(10, 2)); 
+
+let colors = ["red", "green", "blue", "yellow"];
+console.log(colors.includes("green", -3)); 
+console.log(colors.includes("red", -3));   

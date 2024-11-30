@@ -1119,3 +1119,27 @@
 // let colors = ["red", "green", "blue", "yellow"];
 // console.log(colors.includes("green", -3)); 
 // console.log(colors.includes("red", -3));   
+
+
+// let numbers = [130,5, 12, 8, 44];
+// let res=numbers.find((arr)=>{
+//      return arr%2===0;
+// })
+// console.log(res);
+
+
+// let words = ["onana", "banana", "cherry"];
+
+// let word = words.find((w) => w.includes("e"));
+// console.log(word);
+
+
+let numbers = [4,25, 9, 16 ];
+
+let found = numbers.find((num, index, array) => {
+  console.log(`Tekshirilayotgan qiymat: ${num}, indeks: ${index}`);
+  console.log(`Massiv: ${array}`);
+  
+  return num > 20;
+});
+console.log(found);

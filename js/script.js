@@ -1077,6 +1077,33 @@
 // console.log(numbers.at(-1)); 
 // console.log(numbers.at(-2)); 
 
-const numbers = [10, 20, 30, 40];
-console.log(numbers.at(10)); 
-console.log(numbers.at(-5)); 
+// const numbers = [10, 20, 30, 40];
+// console.log(numbers.at(10)); 
+// console.log(numbers.at(-5)); 
+
+// let fruits = ["apple", "banana"];
+// let vegetables = ["carrot", "broccoli"];
+// let result = vegetables.concat(fruits);
+
+// console.log(result); 
+
+// let numbers = [1, 2, 3];
+// let result = numbers.concat(4, 5, 6);
+
+// console.log(result); 
+
+// let arr1 = [1];
+// let arr2 = [2, 3];
+// let arr3 = [4, 5];
+// let result = arr1.concat(arr2, arr3);
+
+// console.log(result); 
+
+// let arr=[[1,[2,3]],[3,4]];
+// console.log(arr[0][1][0]);
+
+
+// let nested = [[1, 2], [3, 4]];
+// let result = nested.concat([[5, 6]]);
+
+// console.log(result); 

@@ -1024,6 +1024,6 @@
 //     }
 // }
 // console.log(countCharacters(""));
-
-
-
+const str_arr = [1, 2, 3];
+str_arr.push(15);
+console.log(str_arr);

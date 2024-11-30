@@ -1031,6 +1031,6 @@
 
 // console.log(str_arr);
 
-const arr = [1, 2, 3];
-arr.unShift(0); 
-console.log(arr);
+// const arr = [1, 2, 3];
+// arr.unshift(1); 
+// console.log(arr);

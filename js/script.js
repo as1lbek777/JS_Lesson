@@ -1134,12 +1134,103 @@
 // console.log(word);
 
 
-let numbers = [4,25, 9, 16 ];
+// let numbers = [4,25, 9, 16 ];
 
-let found = numbers.find((num, index, array) => {
-  console.log(`Tekshirilayotgan qiymat: ${num}, indeks: ${index}`);
-  console.log(`Massiv: ${array}`);
+// let found = numbers.find((num, index, array) => {
+//   console.log(`Tekshirilayotgan qiymat: ${num}, indeks: ${index}`);
+//   console.log(`Massiv: ${array}`);
   
-  return num > 20;
-});
-console.log(found);
+//   return num > 20;
+// });
+// console.log(found);
+
+// let numbers = [1, 2, 3, 4, 5];
+
+// numbers.forEach((num) => {
+//   console.log(num);
+// });
+
+// let fruits = ["apple", "banana", "cherry"];
+
+// fruits.forEach((fruit, index) => {
+//   console.log(`${index}: ${fruit}`);
+// });
+
+// let numbers = [10, 20, 30];
+// let sum = 0;
+
+// numbers.forEach((num) => {
+//   sum += num;
+// });
+
+// console.log(sum);
+
+
+// let numbers = [1, 2, 3, 4, 5];
+// let doubled = numbers.map(num => num * 2);
+
+// console.log(doubled); 
+// console.log(numbers);
+
+// let fruits = ["apple", "banana", "cherry"];
+// let lengths = fruits.map(fruit => fruit.length);
+
+// console.log(lengths); 
+
+
+// let numbers = [10, 20, 30];
+// let updatedNumbers = numbers.map(num => num + 5);
+
+// console.log(updatedNumbers); 
+
+// let numbers = [10, 20, 30];
+// let indexedNumbers = numbers.map((num, index) => `${index + 1}: ${num}`);
+
+// console.log(indexedNumbers); 
+
+// let numbers = [1, 2, 3, 4, 5, 6];
+// let evenNumbers = numbers.filter(num => num % 2 === 0);
+
+// console.log(evenNumbers); 
+
+// let words = ["apple", "banana", "kiwi", "cherry"];
+// let longWords = words.filter(word => word.length > 5);
+
+// console.log(longWords); 
+
+// let mixedArray = [1, null, 2, undefined, 3, null];
+// let cleanArray = mixedArray.filter(value => value === null && value!== undefined);
+
+// console.log(cleanArray); 
+
+// let products = ["Sardorbek", "jasmina", "UMAR", "TEMURBEK", "BONURJON"];
+// let search = prompt("Search products: ");
+
+// let searchResult = products.filter(product =>
+//   product.toLowerCase().includes(search.toLowerCase())
+// );
+
+// console.log(searchResult);
+
+// let fruits = ["banana", "apple", "cherry"];
+// fruits.sort();
+// console.log(fruits);
+
+// let numbers = [30, 1, 4, 21, 100000];
+// numbers.sort();
+// console.log(numbers); 
+
+// let numbers = [50, 5, 10, 25, 1];
+
+// numbers.sort((a, b) => b+a); 
+// console.log(numbers); 
+
+// let fruits = ["banana", "apple", "cherry", "date"];
+
+// fruits.sort((a, b) => a.localeCompare(b)); 
+// console.log(fruits); 
+
+// let words = ["elephant", "cat", "butterfly", "ant"];
+
+// words.sort((a, b) => a.length - b.length); 
+// console.log(words); 

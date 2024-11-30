@@ -1030,3 +1030,7 @@
 // const str_arr = [1, 2, 3];
 
 // console.log(str_arr);
+
+const arr = [1, 2, 3];
+arr.unShift(0); 
+console.log(arr);

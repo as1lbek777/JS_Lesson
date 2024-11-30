@@ -1106,4 +1106,8 @@
 // let nested = [[1, 2], [3, 4]];
 // let result = nested.concat([[5, 6]]);
 
-// console.log(result); 
+// console.log(result);
+
+let fruits = ["apple", "banana", "cherry"];
+console.log(fruits.includes("banana"));
+console.log(fruits.includes("grape"));  

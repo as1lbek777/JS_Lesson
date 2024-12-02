@@ -2,7 +2,8 @@ console.log("JavaScriptga xush kelibsiz!");
 console.log("JavaScriptga!");
 
 
-// const arr = [1, 2, 3, 4, 5];
-// const result = arr.some(num => num > 3) && arr.every(num => num < 6);
+const array = [true, false, true, true];
+const result = array.reduce((acc, val) => log && val, true);
 
-// console.log(result);
+console.log(result);
+

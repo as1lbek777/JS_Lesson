@@ -1,4 +1,4 @@
-//camel case usulida uzgaruvchilarni nomlash
+// camel case usulida uzgaruvchilarni nomlash
 // let FirstName="Sardorbek";
 // let secondName="Sayfullayev";
 // let totalCost;
